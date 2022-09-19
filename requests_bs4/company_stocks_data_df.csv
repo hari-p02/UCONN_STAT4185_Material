@@ -1,0 +1,102 @@
+,company_names_lst,company_code_lst,market_cap_lst,industries_for_company_lst,overall_rating,num_reviews_dist,work_life_balance,compensation_benefits,job_security_advancements,management,culture
+0,Apple,AAPL,$2.379 T,"['Tech', 'Software', 'Dow jones', 'Tech Hardware', 'Electronics']",4.1,"['5.4K', '3.2K', '1.6K', '508', '379']",3.8,4.1,3.7,3.7,4.1
+1,Microsoft,MSFT,$2.001 T,"['Software', 'Tech', 'Dow jones', 'Video games']",4.2,"['3.5K', '2.5K', '1.1K', '262', '154']",3.9,4.1,3.5,3.6,4.0
+2,Alphabet (Google),GOOG,$1.576 T,"['Internet', 'Tech', 'Software', 'Autonomous driving']",4.3,"['2.3K', '1.1K', '486', '123', '96']",4.2,4.1,3.7,3.9,4.2
+3,Amazon,AMZN,$1.175 T,"['E-Commerce', 'Internet', 'Tech', 'Retail']",3.5,"['24K', '21.8K', '19.5K', '8.9K', '10.7K']",3.3,3.7,3.1,3.1,3.3
+4,Tesla,TSLA,$779.66 B,"['Automakers', 'Tech', 'Electric Vehicles', 'Bitcoin', 'Manufacturing', 'EV charging', 'Autonomous driving']",3.4,"['1.4K', '1.3K', '1.2K', '615', '679']",3.0,3.6,2.8,2.9,3.3
+5,Berkshire Hathaway ,BRK-B,$619.93 B,['Investment'],4.0,"['86', '36', '32', '9', '11']",3.9,3.8,3.5,3.8,3.9
+6,UnitedHealth,UNH,$486.56 B,"['Healthcare', 'Insurance', 'Dow jones']",3.6,"['5.1K', '4.9K', '3.5K', '1.5K', '1.6K']",3.6,3.5,3.2,3.2,3.5
+7,Johnson & Johnson,JNJ,$469.12 B,"['Pharmaceuticals', 'Dow jones', 'Biotech']",4.2,"['3.2K', '2.2K', '799', '227', '177']",4.0,4.1,3.6,3.8,4.0
+8,Meta Platforms (Facebook),META,$462.45 B,"['Tech', 'Internet']",3.7,"['11', '8', '6', '2', '3']",3.6,3.8,3.1,3.3,3.5
+9,Visa,V,$430.80 B,"['Financial services', 'Dow jones']",3.9,"['389', '331', '199', '57', '55']",3.8,4.0,3.5,3.4,3.6
+10,NVIDIA,NVDA,$394.68 B,"['Tech', 'Semiconductors', 'Electronics', 'Tech Hardware', 'Autonomous driving']",4.2,"['123', '80', '29', '7', '10']",3.9,4.1,3.8,3.8,4.1
+11,Exxon Mobil,XOM,$362.67 B,"['Oil&Gas', 'Energy']",3.9,"['1.8K', '1.3K', '863', '294', '256']",3.7,3.7,3.4,3.6,3.6
+12,Procter & Gamble,PG,$347.94 B,"['Dow jones', 'Consumer goods']",4.1,"['3.3K', '2.2K', '1K', '309', '259']",3.8,4.0,3.7,3.7,3.9
+13,Walmart,WMT,$343.74 B,"['Retail', 'Dow jones', 'Supermarket Chains']",3.4,"['60.1K', '62.6K', '63.3K', '25.1K', '26.2K']",3.3,3.3,3.2,3.0,3.3
+14,JPMorgan Chase,JPM,$335.88 B,"['Banks', 'Financial services', 'Dow jones']",3.9,"['6.1K', '6K', '3.5K', '1K', '877']",3.7,3.8,3.4,3.4,3.6
+15,Mastercard,MA,$314.22 B,['Financial services'],4.0,"['248', '251', '119', '19', '20']",3.9,4.0,3.5,3.6,3.8
+16,Eli Lilly,LLY,$313.99 B,"['Pharmaceuticals', 'Biotech']",4.1,"['869', '676', '245', '89', '64']",4.0,4.1,3.5,3.7,3.9
+17,Pfizer,PFE,$298.33 B,"['Pharmaceuticals', 'Biotech']",4.2,"['3K', '1.9K', '876', '181', '191']",4.0,4.1,3.6,3.8,4.0
+18,Home Depot,HD,$294.41 B,"['Retail', 'Dow jones']",3.7,"['18.4K', '18.7K', '13.7K', '4.6K', '3.9K']",3.5,3.5,3.3,3.3,3.6
+19,Chevron,CVX,$280.51 B,"['Oil&Gas', 'Dow jones', 'Energy']",4.0,"['2.5K', '1.7K', '912', '314', '309']",3.9,3.6,3.4,3.6,3.8
+20,Coca-Cola,KO,$273.71 B,"['Beverages', 'Dow jones']",3.9,"['3.8K', '2.9K', '1.9K', '692', '660']",3.6,3.8,3.4,3.4,3.6
+21,AbbVie,ABBV,$270.10 B,"['Biotech', 'Pharmaceuticals']",3.9,"['489', '361', '225', '80', '61']",3.7,4.0,3.4,3.4,3.7
+22,Bank of America ,BAC,$256.12 B,"['Banks', 'Financial services']",3.8,"['10.6K', '10.1K', '6.8K', '2K', '1.8K']",3.7,3.9,3.4,3.4,3.6
+23,Pepsico,PEP,$237.65 B,['Beverages'],3.8,"['6.3K', '4.9K', '3.3K', '1.3K', '1.3K']",3.4,3.8,3.4,3.3,3.6
+24,Merck,MRK,$234.62 B,"['Pharmaceuticals', 'Dow jones', 'Biotech']",4.1,"['1.9K', '1.4K', '694', '183', '125']",3.9,4.0,3.5,3.6,3.8
+25,Costco,COST,$222.16 B,"['Retail', 'Supermarket Chains']",4.1,"['6.4K', '4.2K', '2K', '649', '579']",3.8,4.3,3.9,3.6,3.9
+26,Thermo Fisher Scientific,TMO,$216.75 B,"['Scientific & Technical Instruments', 'Diagnostics and Testing', 'Biotech']",3.5,"['913', '1.2K', '865', '421', '408']",3.3,3.4,3.0,3.0,3.2
+27,Verizon,VZ,$212.03 B,"['Telecommunication', 'Dow jones']",3.9,"['10.4K', '9.9K', '6.1K', '1.8K', '1.5K']",3.5,4.1,3.4,3.4,3.6
+28,Broadcom,AVGO,$201.37 B,"['Semiconductors', 'Tech']",3.8,"['244', '322', '155', '51', '52']",3.6,3.9,3.2,3.3,3.5
+29,Danaher,DHR,$191.77 B,['Conglomerate'],3.6,"['301', '351', '251', '95', '81']",3.4,3.6,3.1,3.1,3.4
+30,Oracle,ORCL,$191.52 B,"['Tech', 'Software']",3.8,"['1.9K', '2.4K', '1.5K', '465', '252']",3.9,3.6,3.4,3.4,3.6
+31,Abbott Laboratories,ABT,$191.30 B,['devices'],3.9,"['2.2K', '1.8K', '919', '309', '322']",3.7,3.9,3.4,3.5,3.7
+32,McDonald,MCD,$187.28 B,"['Restaurant chains', 'Dow jones', 'Food']",3.5,"['12', '6', '12', '0', '6']",3.2,2.9,3.7,3.2,3.5
+33,Adobe,ADBE,$182.25 B,"['Software', 'Tech']",4.3,"['360', '247', '74', '21', '19']",4.1,4.2,3.7,3.7,4.1
+34,Cisco,CSCO,$179.67 B,"['Tech', 'Electronics', 'Networking hardware', 'Dow jones', 'Telecommunications equipment', 'Tech Hardware']",4.1,"['2.4K', '2.4K', '943', '197', '123']",4.0,4.0,3.4,3.6,3.9
+35,Comcast,CMCSA,$179.02 B,"['Telecommunication', 'Media/Press', '']",3.7,"['5.4K', '5.2K', '4K', '1.5K', '1.5K']",3.5,3.9,3.2,3.2,3.5
+36,Salesforce,CRM,$174.62 B,"['Software', 'Dow jones', 'Tech']",4.3,"['501', '237', '83', '32', '18']",4.1,4.3,3.9,3.9,4.2
+37,Walt Disney,DIS,$174.60 B,"['', 'Dow jones']",4.1,"['1.8K', '1.2K', '661', '200', '153']",3.8,3.7,3.5,3.6,4.0
+38,T-Mobile US,TMUS,$170.13 B,['Telecommunication'],3.8,"['1.1K', '951', '609', '198', '229']",3.6,3.5,3.3,3.4,3.7
+39,Nike,NKE,$169.85 B,"['Sports goods', 'Footwear', 'Dow jones', 'Clothing']",4.1,"['5K', '3.2K', '1.7K', '462', '329']",3.9,3.8,3.6,3.6,4.1
+40,United Parcel Service,UPS,$161.99 B,"['Courier', 'Transportation']",3.7,"['17.1K', '14.1K', '10.5K', '4K', '4.3K']",3.5,3.8,3.5,3.3,3.5
+41,Bristol-Myers Squibb,BMY,$160.48 B,"['Pharmaceuticals', 'Biotech']",4.1,"['909', '714', '258', '87', '61']",4.0,4.1,3.5,3.7,3.9
+42,Nextera Energy,NEE,$157.65 B,"['Energy', 'Electricity', 'Utility companies', 'Renewable energy']",3.9,"['363', '300', '161', '64', '64']",3.5,3.9,3.5,3.4,3.7
+43,Intel,INTC,$155.34 B,"['Semiconductors', 'Tech', 'Dow jones', 'Tech Hardware', 'Manufacturing']",4.1,"['2.4K', '2K', '846', '210', '174']",3.9,4.1,3.6,3.6,3.9
+44,QUALCOMM,QCOM,$152.33 B,"['Tech', 'Semiconductors', 'Tech Hardware']",4.1,"['618', '609', '271', '63', '40']",3.8,4.0,3.5,3.5,3.8
+45,Wells Fargo,WFC,$152.29 B,"['Banks', 'Financial services']",3.7,"['13.4K', '12.8K', '9.4K', '3.5K', '3.4K']",3.6,3.7,3.4,3.3,3.5
+46,AT&T,T,$148.90 B,['Telecommunication'],3.7,"['13.4K', '11.8K', '8.7K', '3.5K', '3.4K']",3.4,4.0,3.2,3.3,3.4
+47,Philip Morris,PM,$145.53 B,['Tobacco'],4.2,"['863', '538', '194', '47', '67']",3.9,4.3,3.7,3.7,4.0
+48,Texas Instruments,TXN,$143.41 B,"['Semiconductors', 'Tech', 'Tech Hardware']",4.1,"['733', '609', '274', '61', '55']",3.9,4.0,3.6,3.6,3.9
+49,Raytheon Technologies,RTX,$141.46 B,"['Aerospace', 'Defense contractors']",3.9,"['1.5K', '1.4K', '758', '237', '224']",3.8,4.0,3.4,3.4,3.6
+50,Morgan Stanley,MS,$134.22 B,"['Banks', 'Financial services', 'Investment']",3.8,"['1.6K', '1.5K', '1K', '322', '256']",3.7,3.6,3.3,3.4,3.6
+51,Amgen,AMGN,$132.73 B,"['Pharmaceuticals', 'Dow jones', 'Biotech']",4.0,"['707', '530', '263', '86', '65']",3.8,4.1,3.4,3.5,3.7
+52,Union Pacific Corporation,UNP,$131.69 B,"['Railways', 'Transportation', 'Infrastructure']",2.8,"['373', '398', '497', '357', '653']",2.2,3.8,2.3,2.2,2.5
+53,AMD,AMD,$128.58 B,"['Tech', 'Semiconductors', 'Electronics', 'Tech Hardware']",3.8,"['146', '217', '135', '33', '19']",3.8,3.7,3.1,3.3,3.6
+54,IBM,IBM,$125.90 B,"['Tech', 'Software', 'Dow jones']",3.9,"['10.7K', '11.4K', '6.6K', '1.7K', '1.1K']",3.9,3.5,3.5,3.5,3.7
+55,CVS Health,CVS,$123.49 B,"['Healthcare', 'Pharmaceuticals', 'Drugstore', 'Retail']",3.2,"['6.5K', '6.8K', '7.3K', '3.8K', '4.8K']",3.1,3.1,2.9,2.9,3.0
+56,Charles Schwab,SCHW,$122.04 B,"['Financial services', 'Banks']",3.9,"['590', '458', '248', '108', '72']",3.9,3.8,3.4,3.5,3.8
+57,S&P Global,SPGI,$119.80 B,['Financial services'],3.9,"['483', '510', '277', '70', '52']",4.0,3.8,3.5,3.5,3.7
+58,American Tower,AMT,$118.50 B,"['Telecommunication', 'Real estate', 'REITs', 'Infrastructure']",3.8,"['100', '125', '53', '24', '25']",3.6,3.8,3.1,3.3,3.5
+59,Honeywell,HON,$117.99 B,"['Dow jones', 'Aerospace', 'Defense contractors']",3.7,"['2.9K', '3.2K', '2K', '830', '712']",3.5,3.5,3.2,3.3,3.4
+60,Anthem,ANTM,$116.34 B,"['Healthcare', 'Insurance']",2.8,"['4', '8', '11', '8', '9']",2.6,3.6,2.4,2.1,2.4
+61,Lowe's Companies,LOW,$116.08 B,['Retail'],3.5,"['12.5K', '14.4K', '11.9K', '4.9K', '5.2K']",3.3,3.4,3.1,3.0,3.3
+62,Intuit,INTU,$114.75 B,"['Software', 'Tech']",4.2,"['948', '462', '196', '89', '81']",4.1,4.1,3.5,3.7,4.1
+63,Lockheed Martin,LMT,$111.85 B,"['Aerospace', 'Defense contractors', 'Aircraft manufacturers', 'Manufacturing']",4.0,"['3.6K', '3.1K', '1.5K', '430', '327']",3.9,4.0,3.5,3.5,3.7
+64,ConocoPhillips,COP,$111.83 B,"['Oil&Gas', 'Energy']",4.1,"['574', '428', '194', '56', '35']",4.1,4.2,3.4,3.6,3.9
+65,American Express,AXP,$106.75 B,"['Dow jones', 'Financial services']",4.1,"['4K', '2.8K', '1.3K', '374', '382']",4.0,4.0,3.6,3.7,4.0
+66,Goldman Sachs,GS,$101.82 B,"['Banks', 'Dow jones', 'Financial services']",4.0,"['741', '650', '363', '97', '86']",3.2,3.9,3.5,3.5,3.7
+67,ServiceNow,NOW,$99.05 B,"['Software', 'Internet', 'Tech']",3.6,"['65', '56', '49', '15', '21']",3.5,3.9,3.1,3.0,3.4
+68,Caterpillar,CAT,$95.52 B,"['Dow jones', 'Machinery manufacturing', 'Manufacturing']",3.8,"['2.8K', '2.2K', '1.4K', '518', '596']",3.7,3.8,3.2,3.3,3.6
+69,BlackRock,BLK,$93.86 B,['Investment'],2.8,"['3', '1', '4', '2', '4']",2.6,3.1,2.5,2.4,2.4
+70,Deere & Company,DE,$93.10 B,"['Machinery manufacturing', 'Manufacturing']",4.0,"['1.6K', '1.2K', '581', '182', '208']",3.8,3.9,3.4,3.5,3.8
+71,Starbucks,SBUX,$90.92 B,['Beverages'],3.9,"['19.6K', '18.3K', '10.2K', '3.3K', '2.3K']",3.7,3.8,3.6,3.4,3.9
+72,Citigroup,C,$90.92 B,"['Banks', 'Financial services']",3.9,"['6.7K', '6.1K', '3.9K', '1.1K', '889']",3.7,3.9,3.5,3.5,3.7
+73,Automatic Data Processing,ADP,$90.76 B,"['Software', 'IT services', 'Professional services', 'Tech']",3.8,"['2.3K', '2.3K', '1.5K', '489', '408']",3.7,3.7,3.4,3.4,3.6
+74,Prologis,PLD,$90.01 B,"['Real estate', 'Investment', 'REITs']",3.9,"['40', '30', '21', '6', '6']",3.7,3.9,3.3,3.4,3.7
+75,Estee Lauder,EL,$89.86 B,,4.0,"['1K', '646', '349', '122', '104']",3.8,3.7,3.6,3.6,3.9
+76,Cigna,CI,$88.57 B,['Insurance'],3.7,"['1.6K', '1.4K', '996', '416', '450']",3.6,3.6,3.2,3.3,3.5
+77,Mondelez,MDLZ,$86.41 B,['Food'],4.0,"['2.1K', '1.4K', '837', '296', '315']",3.7,3.9,3.4,3.5,3.7
+78,PayPal,PYPL,$85.03 B,"['Financial services', 'Tech', 'Internet', 'Bitcoin']",3.9,"['594', '503', '281', '111', '91']",3.8,4.0,3.4,3.4,3.8
+79,Zoetis,ZTS,$83.76 B,"['Pharmaceuticals', 'Biotech']",3.7,"['110', '101', '70', '37', '25']",3.6,3.9,3.2,3.1,3.3
+80,Netflix,NFLX,$83.06 B,"['', 'Internet', 'Tech']",3.9,"['286', '200', '117', '40', '48']",3.7,4.0,3.2,3.5,3.8
+81,Boeing,BA,$82.27 B,"['Aircraft manufacturers', 'Aerospace', 'Dow jones', 'Manufacturing']",3.9,"['3.3K', '2.9K', '1.7K', '485', '405']",3.8,4.1,3.4,3.3,3.5
+82,Duke Energy,DUK,$81.54 B,"['Energy', 'Electricity', 'Oil&Gas', 'Utility companies']",3.8,"['597', '543', '287', '129', '101']",3.6,3.9,3.4,3.4,3.6
+83,Applied Materials,AMAT,$79.33 B,"['Semiconductors', 'Tech', 'Tech Hardware']",3.9,"['310', '374', '195', '53', '40']",3.5,3.8,3.3,3.4,3.6
+84,Gilead Sciences,GILD,$78.82 B,"['Pharmaceuticals', 'Biotech']",3.6,"['147', '158', '85', '43', '62']",3.3,4.0,3.2,3.1,3.3
+85,Marsh & McLennan Companies,MMC,$78.09 B,"['Insurance', 'Professional services']",3.7,"['322', '309', '208', '86', '72']",3.7,3.6,3.2,3.3,3.5
+86,Analog Devices,ADI,$77.93 B,"['Semiconductors', 'Tech', 'Manufacturing']",3.9,"['274', '275', '160', '51', '33']",3.8,3.8,3.5,3.5,3.7
+87,Charter Communications,CHTR,$77.81 B,['Telecommunication'],3.3,"['4K', '4.5K', '4.3K', '2K', '2.4K']",3.1,3.7,3.0,3.0,3.1
+88,Stryker Corporation,SYK,$75.96 B,['devices'],3.8,"['706', '561', '295', '141', '136']",3.5,3.8,3.3,3.3,3.6
+89,Southern Company,SO,$75.64 B,"['Energy', 'Oil&Gas', 'Electricity', 'Utility companies']",4.0,"['185', '145', '65', '18', '31']",3.8,3.9,3.4,3.5,3.7
+90,Vertex Pharmaceuticals,VRTX,$75.26 B,"['Pharmaceuticals', 'Biotech']",3.7,"['87', '82', '46', '17', '30']",3.5,3.5,3.2,3.3,3.5
+91,Altria Group,MO,$75.17 B,['Tobacco'],4.0,"['255', '174', '98', '30', '23']",3.9,4.4,3.5,3.5,3.7
+92,CME Group,CME,$75.08 B,"['Stock exchanges', 'Financial services', 'Stock/Crypto exchanges']",4.1,"['102', '86', '40', '10', '8']",3.9,4.0,3.4,3.5,3.7
+93,Intuitive Surgical,ISRG,$74.95 B,['devices'],3.7,"['64', '48', '31', '18', '15']",3.3,4.0,3.3,3.2,3.5
+94,Northrop Grumman,NOC,$74.68 B,"['Aerospace', 'Defense contractors']",4.0,"['2.4K', '2.2K', '1.1K', '328', '241']",3.9,4.0,3.5,3.5,3.7
+95,Crown Castle,CCI,$74.22 B,"['Real estate', 'Investment', 'REITs', 'Telecommunication', 'Infrastructure']",3.7,"['119', '79', '59', '33', '27']",3.7,3.8,3.1,3.2,3.6
+96,3M,MMM,$73.24 B,"['Dow jones', 'Gloves & PPE']",3.9,"['1.9K', '1.5K', '779', '281', '298']",3.7,3.9,3.4,3.4,3.7
+97,Booking.com,BKNG,$71.88 B,"['Internet', 'Travel', 'Online Travel', 'Tech']",3.7,"['311', '304', '173', '79', '84']",3.6,3.7,3.3,3.2,3.8
+98,Progressive,PGR,$70.41 B,['Insurance'],3.7,"['1.4K', '1.1K', '837', '350', '417']",3.3,3.8,3.5,3.3,3.7
+99,"Moderna
+",MRNA,$70.09 B,"['Pharmaceuticals', 'mRNA therapeutics', 'Biotech']",3.7,"['14', '25', '10', '5', '3']",3.3,3.7,3.1,3.1,3.3
